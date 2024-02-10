@@ -1,5 +1,5 @@
 '''
-Claro, aqui está um exemplo simples de um programa Go que: 
+Aqui está um exemplo simples de um programa Go que: 
 usa goroutines e canais para exibir "ping" e "pong" alternadamente. 
 
 Este programa cria três goroutines. 
