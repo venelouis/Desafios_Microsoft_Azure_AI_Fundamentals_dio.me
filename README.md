@@ -1,12 +1,12 @@
-<img align="right" src="./imagens/1.jpeg" width="1000"/>   ...
+
 
 
 <img align="right" src="https://hermes.dio.me/tracks/4d998d5c-36c1-497b-8da0-8db465c820eb.png" width="200"/>
 
 # Autorização de Uso
-### 1. Salve uma cópia e utilize os modelos para desenvolver suas respostas!
+### Salve uma cópia e utilize os modelos para desenvolver suas respostas!
 <a href="https://github.com/venelouis/Desafios_Microsoft_Azure_AI_Fundamentals_dio.me/fork">
-    <img alt="Folk" title="Fork Button" src="https://shields.io/badge/-DAR%20FORK-red.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+<img alt="Folk" title="Fork Button" src="https://shields.io/badge/-DAR%20FORK-red.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 
 
 ## Detalhes da formação
