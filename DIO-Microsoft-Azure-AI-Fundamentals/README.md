@@ -1,11 +1,11 @@
-<img align="right" src="./1.jpeg" width="1000"/>   ...
+<img align="right" src="./imagens/1.jpeg" width="1000"/>   ...
 
 
 <img align="right" src="https://hermes.dio.me/tracks/4d998d5c-36c1-497b-8da0-8db465c820eb.png" width="200"/>
 
 # Autorização de Uso
 ### 1. Salve uma cópia e utilize os modelos para desenvolver suas respostas!
-<a href="https://github.com//alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/fork">
+<a href="https://github.com/venelouis/Desafios_Microsoft_Azure_AI_Fundamentals_dio.me/fork">
     <img alt="Folk" title="Fork Button" src="https://shields.io/badge/-DAR%20FORK-red.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 
 
@@ -34,9 +34,9 @@ Ranking: Cada bootcamp possui um ranking com premiações exclusivas, onde você
 
 <div align="center">
   <p>
-      <img src="https://img.shields.io/github/languages/count/alexklenio/DIO-dotnet-developer"/>
-      <img src="https://img.shields.io/github/repo-size/alexklenio/DIO-dotnet-developer"/>
-      <img src="https://img.shields.io/github/last-commit/alexklenio/DIO-dotnet-developer"/>
-      <img src="https://img.shields.io/github/issues/alexklenio/DIO-dotnet-developer"/>
+      <img src="https://img.shields.io/github/languages/count/venelouis/Desafios_Microsoft_Azure_AI_Fundamentals_dio.me"/>
+      <img src="https://img.shields.io/github/repo-size/venelouis/Desafios_Microsoft_Azure_AI_Fundamentals_dio.me"/>
+      <img src="https://img.shields.io/github/last-commit/venelouis/Desafios_Microsoft_Azure_AI_Fundamentals_dio.me"/>
+      <img src="https://img.shields.io/github/issues/venelouis/Desafios_Microsoft_Azure_AI_Fundamentals_dio.me"/>
   </p> 
 </div>
