@@ -1,16 +1,15 @@
 
-
-
 <img align="right" src="https://hermes.dio.me/tracks/4d998d5c-36c1-497b-8da0-8db465c820eb.png" width="200"/>
 
-<h3> Autorização de Uso concedida por: <a href="https://github.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals">Alex Lopez</h1>
+<h1> Autorização de Uso concedida por: <a href="https://github.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals">Alex Lopez</h1>
+*Este repositório <b><u>não é apenas uma cópia</u></b>, veja a pasta de <a href="https://github.com/venelouis/Desafios_Microsoft_Azure_AI_Fundamentals_dio.me/tree/main/coment%C3%A1rios.md">comentários!</a>
 
-### Salve uma cópia e utilize os modelos para desenvolver suas respostas!
+<h3> Salve uma cópia e utilize os modelos para desenvolver suas respostas!</h3>
+
 <a href="https://github.com/venelouis/Desafios_Microsoft_Azure_AI_Fundamentals_dio.me/fork">
 <img align="center" alt="Folk" title="Fork Button" src="https://shields.io/badge/-DAR%20FORK-red.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-<br>
 
-## Detalhes da formação
+<h2> Detalhes da formação </h2>
 
 A Microsoft quer você certificado! A líder no mercado em nuvem se juntou à DIO para preparar profissionais para a certificação AI-900, o futuro da IA com cloud!
 
